@@ -1,1 +1,1 @@
-# cricket_score_predictor
+# cricket_score_prediction using machine learning
